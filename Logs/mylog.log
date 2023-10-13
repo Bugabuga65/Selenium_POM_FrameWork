@@ -1,0 +1,30 @@
+[INFO ] 2023-10-10 18:43:34.814 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:43:36.112 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:43:41.163 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:43:51.686 [main] MyStore - Cart Quantity - Failed
+[INFO ] 2023-10-10 18:44:43.824 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:44:45.114 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:44:58.746 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:45:11.422 [main] MyStore - Cart Quantity - Passed
+[INFO ] 2023-10-10 18:47:18.697 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:47:20.062 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:47:24.668 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:47:31.825 [main] MyStore - Cart Quantity - Passed
+[INFO ] 2023-10-10 18:48:00.696 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:48:01.982 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:48:07.840 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:48:15.285 [main] MyStore - Cart Quantity - Failed
+[INFO ] 2023-10-10 18:51:26.284 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:52:17.433 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:52:18.758 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:52:29.813 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:52:43.973 [main] MyStore - Cart Quantity - Failed
+[INFO ] 2023-10-10 18:54:00.907 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:54:02.199 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:54:16.829 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:54:28.686 [main] MyStore - Cart Quantity - Passed
+[INFO ] 2023-10-10 18:56:27.922 [main] MyStore - url opened
+[INFO ] 2023-10-10 18:56:29.513 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:56:39.315 [main] MyStore - signin button clicked
+[INFO ] 2023-10-10 18:56:49.672 [main] MyStore - Cart Quantity - Passed
+[INFO ] 2023-10-10 19:58:26.396 [main] MyStore - url opened
